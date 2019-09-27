@@ -1,4 +1,4 @@
-# habit_tracker
+# COUNT ME! habit tracker
 This is a calorie tracking app
 Built as a Single Page App
 Using MEVN Mongodb, Express, Vue and Node
